@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\bin\Debug\net6.0\5-Try-Catch.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\bin\Debug\net6.0\5-Try-Catch.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\bin\Debug\net6.0\5-Try-Catch.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\bin\Debug\net6.0\5-Try-Catch.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\bin\Debug\net6.0\5-Try-Catch.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\refint\5-Try-Catch.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\5-Try-Catch.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\5-Try-Catch\obj\Debug\net6.0\ref\5-Try-Catch.dll
